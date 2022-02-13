@@ -1,0 +1,15 @@
+body{
+	background-color: powderblue;
+}
+th,td{
+	border: 1px double rgb(104, 177, 104);
+	border-collapse: collapse;
+	border-radius: 10px;
+	padding-left:10px;
+	padding-top: 2px;
+}
+table{
+	width: 100%;
+	border-spacing: 30px;
+	
+}
